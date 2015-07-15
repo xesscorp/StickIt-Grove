@@ -6,7 +6,7 @@
 The StickIt!-Grove lets you use Grove modules with your XESS programmable logic boards and the StickIt! mainboard.
 
 * License: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/legalcode)
-* Documentation: [https://StickIt-Grove.readthedocs.org][]
+* Documentation: [StickIt-Grove.readthedocs.org](https://StickIt-Grove.readthedocs.org)
 
 
 # Features
