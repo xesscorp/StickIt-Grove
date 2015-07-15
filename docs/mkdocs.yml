@@ -1,0 +1,19 @@
+site_name: 'StickIt!-Grove'
+repo_name: 'StickIt-Grove'
+site_description: 'The StickIt!-Grove is truly awesome!'
+site_author: 'XESS Corp.'
+site_favicon: 'readthedocs/xess.ico'
+copyright: '(c) 2015 by XESS Corp.'
+
+pages:
+- 'Introduction': 'index.md'
+- 'Installation': 'installation.md'
+- 'Usage': 'usage.md'
+- 'License': 'licenses.md'
+- 'History': 'history.md'
+- 'Authors': 'authors.md'
+- 'Contributing': 'contributing.md'
+
+theme: 'readthedocs'
+docs_dir: 'readthedocs'
+site_dir: 'site'
