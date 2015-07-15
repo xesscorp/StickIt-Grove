@@ -1,6 +1,6 @@
 site_name: 'StickIt!-Grove'
 repo_name: 'StickIt-Grove'
-site_description: 'The StickIt!-Grove is truly awesome!'
+site_description: 'The StickIt!-Grove lets you use Grove modules with your XESS programmable logic boards and the StickIt! mainboard.'
 site_author: 'XESS Corp.'
 site_favicon: 'readthedocs/xess.ico'
 copyright: '(c) 2015 by XESS Corp.'
