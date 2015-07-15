@@ -15,5 +15,5 @@ pages:
 - 'Contributing': 'contributing.md'
 
 theme: 'readthedocs'
-docs_dir: 'readthedocs'
+docs_dir: 'docs/readthedocs'
 site_dir: 'site'
